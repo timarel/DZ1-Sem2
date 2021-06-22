@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1624328357 source:c:\webdev\spellchecker\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
